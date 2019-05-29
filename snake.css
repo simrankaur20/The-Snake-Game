@@ -1,0 +1,20 @@
+body,html{
+    margin: 0;
+    background-image: url("backroundimg.jpg")
+}
+#mycanvas{
+    width:80%;
+    /* height:100%;  */
+    border:5px solid orange;
+    background-color: black;
+    margin-left: 10%;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: aliceblue;
+    background-color: darkslategray;
+    margin-top: 0px;
+    margin-bottom: .5%;
+}
